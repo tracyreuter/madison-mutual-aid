@@ -28,8 +28,6 @@ Here are a few books to check out from your local public library.
 
 * *Mutual Aid: Building Solidarity During this Crisis and the Next* - Dean Spade
 
-This book introduces mutual aid with a deserved sense of urgency.
-
 * *Food Not Lawns: How to Turn Your Yard Into a Garden and Your Neighborhood Into a Community* - Heather Jo Flores
 
-This book encourages people to replace lawns with organic gardens to grow nutritious food and strong communities.
+* *Radical Gardening: Politics, Idealism and Rebellion in the Garden* - George McKay
