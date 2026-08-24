@@ -33,3 +33,5 @@ Here are a few books to check out from your local public library.
 * *Food Not Lawns: How to Turn Your Yard Into a Garden and Your Neighborhood Into a Community* - Heather Jo Flores
 
 * *Radical Gardening: Politics, Idealism and Rebellion in the Garden* - George McKay
+
+* *The Serviceberry: Abundance and Reciprocity in the Natural World* - Robin Wall Kimmerer
