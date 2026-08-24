@@ -1,6 +1,6 @@
 # madison-mutual-aid
 
-![alt text](https://github.com/tracyreuter/madison-mutual-aid/images/blob/main/madison_flag.png?raw=true)
+![All hail the great city of Madison](images/madison_flag.png)
 
 ## Contribute
 
