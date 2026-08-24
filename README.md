@@ -1,5 +1,7 @@
 # madison-mutual-aid
 
+![alt text](https://github.com/tracyreuter/madison-mutual-aid/blob/main/madison_flag.png?raw=true)
+
 ## Contribute
 
 These are just a few examples of networks and initiatives in Madison, Wisconsin:
