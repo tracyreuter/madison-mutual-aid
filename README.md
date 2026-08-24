@@ -1,6 +1,6 @@
 # madison-mutual-aid
 
-![alt text](https://github.com/tracyreuter/madison-mutual-aid/blob/main/madison_flag.png?raw=true)
+![alt text](https://github.com/tracyreuter/madison-mutual-aid/images/blob/main/madison_flag.png?raw=true)
 
 ## Contribute
 
